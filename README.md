@@ -1,6 +1,6 @@
 # samachaar
 
-A new Flutter project.
+Daily news from around the world.News in more than 5 categories including sports,science and entertainment. News fetched from the news api from news api org.
 
 ## Getting Started
 
